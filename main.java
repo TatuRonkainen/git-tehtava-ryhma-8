@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Moi t.tatu");
     
     
-    
+        System.out.println("Hei t.mia");
     
     
     
